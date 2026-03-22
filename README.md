@@ -1,2 +1,2 @@
 # Universidad
-Ejercicios y proyectos de la Universidad
+Ejercicios y Proyectos de la Universidad

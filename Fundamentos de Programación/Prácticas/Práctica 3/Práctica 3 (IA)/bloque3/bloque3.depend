@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1768345143 source:c:\ingeniería informática\fundamentos de programación i\práctica 3\práctica_autoescuela\gestion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"gestion.h"
+
+1768329355 c:\ingeniería informática\fundamentos de programación i\práctica 3\práctica_autoescuela\gestion.h
+	"datos.h"
+
+1768327802 c:\ingeniería informática\fundamentos de programación i\práctica 3\práctica_autoescuela\datos.h
+
+1768329780 source:c:\ingeniería informática\fundamentos de programación i\práctica 3\práctica_autoescuela\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"gestion.h"
+
+1768345143 source:c:\ingeniería informática\fundamentos de programación i\práctica 3\bloque3\gestion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"gestion.h"
+
+1768329355 c:\ingeniería informática\fundamentos de programación i\práctica 3\bloque3\gestion.h
+	"datos.h"
+
+1768327802 c:\ingeniería informática\fundamentos de programación i\práctica 3\bloque3\datos.h
+
+1768329780 source:c:\ingeniería informática\fundamentos de programación i\práctica 3\bloque3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"gestion.h"
+

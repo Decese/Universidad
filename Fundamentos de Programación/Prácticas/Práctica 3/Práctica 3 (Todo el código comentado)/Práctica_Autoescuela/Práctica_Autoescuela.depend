@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1768999901 source:c:\ingeniería informática\fundamentos de programación i\práctica 3 daniel de la cal sanz\práctica_autoescuela\gestion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"gestion.h"
+
+1769542159 c:\ingeniería informática\fundamentos de programación i\práctica 3 daniel de la cal sanz\práctica_autoescuela\gestion.h
+	"estructuras.h"
+
+1768330071 c:\ingeniería informática\fundamentos de programación i\práctica 3 daniel de la cal sanz\práctica_autoescuela\datos.h
+
+1769542159 source:c:\ingeniería informática\fundamentos de programación i\práctica 3 daniel de la cal sanz\práctica_autoescuela\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"gestion.h"
+
+1769542159 c:\ingeniería informática\fundamentos de programación i\práctica 3 daniel de la cal sanz\práctica_autoescuela\estructuras.h
+
